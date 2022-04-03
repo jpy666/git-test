@@ -12,3 +12,4 @@ Hello World!!!
 Hello World!!!
 hot-fix test hello world!!!
 hot-fix test hello hot-fix branch
+this my first use idea to execute git operations
